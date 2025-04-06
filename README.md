@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- Node.js<br>- Express<br>- MongoDB / MongoDB Atlas<br>- Mongoose<br>- Swagger UI<br>- Railway (Deploy)</p>
+<p align="left">- Node.js<br>- Express<br>- MongoDB / MongoDB Atlas<br>- Mongooses<br>- JWT /tokens <br>- Swagger UI<br>- Railway (Deploy)</p>
 
 ###
 
